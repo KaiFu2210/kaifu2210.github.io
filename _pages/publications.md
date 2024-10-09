@@ -23,8 +23,8 @@ nav_order: 2
 </h3>
 <p><span class="font-weight-lighter">My research interests include:</span></p>
 <ul>
-  <li><span class="bold-text">Flat surfaces</span> <span class="font-weight-lighter">(translation surfaces and flat cone spheres)</span></li>
-  <li><span class="bold-text">Triangulation of surfaces</span> <span class="font-weight-lighter">(Delaunay triangulations)</span></li>
+  <li><span class="bold-text">Flat surfaces</span> <span class="font-weight-lighter">(translation surfaces, meoromorphic differentials and flat cone spheres)</span></li>
+  <li><span class="bold-text">Triangulation of surfaces</span> <span class="font-weight-lighter">(Delaunay triangulations and Strebel decompositions)</span></li>
   <li><span class="bold-text">Curve counting problems</span> <span class="font-weight-lighter">(saddle connections and cylinders)</span></li>
   <li><span class="bold-text">Teichmüller theory.</span></li>
 </ul>
