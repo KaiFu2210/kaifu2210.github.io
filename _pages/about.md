@@ -26,11 +26,9 @@ I am co-advised by [Vincent Delecroix](https://www.labri.fr/perso/vdelecro/) and
 
 Here is my <a href='./cv/cv.pdf'>CV</a>.
 
-My <a style="color: var(--global-theme-color)">research interests</a> include:
+My [research interests](#) include:
 
-<ul>
-  <li><b>Flat surfaces</b> (translation surfaces, meoromorphic differentials and flat cone spheres)</li>
-  <li><b>Triangulation of surfaces</b> (Delaunay triangulations and Strebel decompositions)</li>
-  <li><b>Curve counting problems</b> (saddle connections and cylinders)</li>
-  <li><b>Teichmüller theory.</b></li>
-</ul>
+- **Flat surfaces** (translation surfaces, meromorphic differentials, and flat cone spheres)
+- **Triangulation of surfaces** (Delaunay triangulations and Strebel decompositions)
+- **Curve counting problems** (saddle connections and cylinders)
+- **Teichmüller theory**
