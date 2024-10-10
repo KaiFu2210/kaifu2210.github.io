@@ -18,21 +18,9 @@ nav_order: 2
   }
 </style>
 
-<h3>
-    <a style="color: inherit">Research interests</a>
-</h3>
-<p><span class="font-weight-lighter">My research interests include:</span></p>
-<ul>
-  <li><span class="bold-text">Flat surfaces</span> <span class="font-weight-lighter">(translation surfaces, meoromorphic differentials and flat cone spheres)</span></li>
-  <li><span class="bold-text">Triangulation of surfaces</span> <span class="font-weight-lighter">(Delaunay triangulations and Strebel decompositions)</span></li>
-  <li><span class="bold-text">Curve counting problems</span> <span class="font-weight-lighter">(saddle connections and cylinders)</span></li>
-  <li><span class="bold-text">Teichmüller theory.</span></li>
-</ul>
-
-
 <br>
 <h3>
-    <a style="color: inherit">Publications and preprints</a>
+    <a style="color: var(--global-theme-color)">Publications and preprints</a>
 </h3>
 <ul>
         <li> 
@@ -48,7 +36,7 @@ nav_order: 2
 </ul>
 
 <h3>
-    <a style="color: inherit">In progress</a>
+    <a style="color: var(--global-theme-color)">In progress</a>
 </h3>
 <ul>
         <li> 
@@ -62,6 +50,6 @@ nav_order: 2
 
 <br>
 <h3>
-    <a style="color: inherit">Talks</a>
+    <a style="color: var(--global-theme-color)">Talks</a>
 </h3>
 {% include news.liquid limit=true %}

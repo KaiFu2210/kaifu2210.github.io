@@ -23,4 +23,21 @@ I am co-advised by [Vincent Delecroix](https://www.labri.fr/perso/vdelecro/) and
 
 <a href='mailto:kai.fu@math.u-bordeaux.fr'>Email</a>: kai.fu (at) math.u-bordeaux.fr
 
-Here is my <a href='./cv/cv.pdf'>CV</a>.
+Here is my <a href='./cv/cv.pdf'>CV</a>.<br>
+
+
+<style>
+  .bold-text {
+    font-weight: bold; /* 使文字粗体 */
+    font-weight: 400; /* 700 或更高的值可增强粗体效果 */
+  }
+</style>
+
+<p>My <a style="color: var(--global-theme-color)">research interests</a> include:</p>
+
+<ul>
+  <li><span class="bold-text">Flat surfaces</span> (translation surfaces, meoromorphic differentials and flat cone spheres)</li>
+  <li><span class="bold-text">Triangulation of surfaces</span> (Delaunay triangulations and Strebel decompositions)</li>
+  <li><span class="bold-text">Curve counting problems</span> (saddle connections and cylinders)</li>
+  <li><span class="bold-text">Teichmüller theory.</span></li>
+</ul>
