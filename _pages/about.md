@@ -30,10 +30,6 @@ I am co-advised by [Vincent Delecroix](https://www.labri.fr/perso/vdelecro/) and
 
 <a href='mailto:kai.fu@math.u-bordeaux.fr'>Email</a>: kai.fu (at) math.u-bordeaux.fr
 
-Here is my <a href='./cv/cv.pdf'>CV</a>.
-
-My research interests include
-
 My <a style="color: var(--global-theme-color)">research interests</a> include:
 
 <ul>
@@ -42,3 +38,5 @@ My <a style="color: var(--global-theme-color)">research interests</a> include:
   <li><span class="bold-text">Curve counting problems</span> (saddle connections and cylinders)</li>
   <li><span class="bold-text">Teichmüller theory.</span></li>
 </ul>
+
+Here is my <a href='./cv/cv.pdf'>CV</a>.
