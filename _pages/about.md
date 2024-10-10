@@ -17,15 +17,6 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-I am a third year doctoral student at [Institut de Mathématiques de Bordeaux](https://www.math.u-bordeaux.fr/imb/), in the [Geometry group](https://www.math.u-bordeaux.fr/imb/geometrie).
-
-I am co-advised by [Vincent Delecroix](https://www.labri.fr/perso/vdelecro/) and [Elise Goujard](https://www.math.u-bordeaux.fr/~egoujard/).
-
-<a href='mailto:kai.fu@math.u-bordeaux.fr'>Email</a>: kai.fu (at) math.u-bordeaux.fr
-
-Here is my <a href='./cv/cv.pdf'>CV</a>.<br>
-
-
 <style>
   .bold-text {
     font-weight: bold; /* 使文字粗体 */
@@ -33,7 +24,15 @@ Here is my <a href='./cv/cv.pdf'>CV</a>.<br>
   }
 </style>
 
-<p>My <a style="color: var(--global-theme-color)">research interests</a> include:</p>
+I am a third year doctoral student at [Institut de Mathématiques de Bordeaux](https://www.math.u-bordeaux.fr/imb/), in the [Geometry group](https://www.math.u-bordeaux.fr/imb/geometrie).
+
+I am co-advised by [Vincent Delecroix](https://www.labri.fr/perso/vdelecro/) and [Elise Goujard](https://www.math.u-bordeaux.fr/~egoujard/).
+
+<a href='mailto:kai.fu@math.u-bordeaux.fr'>Email</a>: kai.fu (at) math.u-bordeaux.fr
+
+Here is my <a href='./cv/cv.pdf'>CV</a>.
+
+My <a style="color: var(--global-theme-color)">research interests</a> include:
 
 <ul>
   <li><span class="bold-text">Flat surfaces</span> (translation surfaces, meoromorphic differentials and flat cone spheres)</li>
