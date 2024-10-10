@@ -25,22 +25,22 @@ social: false # includes social icons at the bottom of the page
   }
 </style>
 
-<span class="font-weight-lighter"><a href="mailto:kai.fu@math.u-bordeaux.fr">Email</a>: kai.fu (at) math.u-bordeaux.fr</span>
+<span class="font-weight-light"><a href="mailto:kai.fu@math.u-bordeaux.fr">Email</a>: kai.fu (at) math.u-bordeaux.fr</span>
 
-<span class="font-weight-lighter">I am a third year doctoral student at [Institut de Mathématiques de Bordeaux](https://www.math.u-bordeaux.fr/imb/), in the [Geometry group](https://www.math.u-bordeaux.fr/imb/geometrie).</span>
+<span class="font-weight-light">I am a third year doctoral student at [Institut de Mathématiques de Bordeaux](https://www.math.u-bordeaux.fr/imb/), in the [Geometry group](https://www.math.u-bordeaux.fr/imb/geometrie).</span>
 
-<span class="font-weight-lighter">I am co-advised by [Vincent Delecroix](https://www.labri.fr/perso/vdelecro/) and [Elise Goujard](https://www.math.u-bordeaux.fr/~egoujard/).</span>
+<span class="font-weight-light">I am co-advised by [Vincent Delecroix](https://www.labri.fr/perso/vdelecro/) and [Elise Goujard](https://www.math.u-bordeaux.fr/~egoujard/).</span>
 
 
-<span class="font-weight-lighter">My <a href='#' style='color: var(--global-theme-color)'>research interests</a> include:</span>
+<span class="font-weight-light">My <a href='#' style='color: var(--global-theme-color)'>research interests</a> include:</span>
 
 <ul>
-  <li><span class="bold-text">Flat surfaces</span> <span class="font-weight-lighter">(translation surfaces, meoromorphic differentials and flat cone spheres)</span></li>
-  <li><span class="bold-text">Triangulation of surfaces</span> <span class="font-weight-lighter">(Delaunay triangulations and Strebel decompositions)</span></li>
-  <li><span class="bold-text">Curve counting problems</span> <span class="font-weight-lighter">(saddle connections and cylinders)</span></li>
+  <li><span class="bold-text">Flat surfaces</span> <span class="font-weight-light">(translation surfaces, meoromorphic differentials and flat cone spheres)</span></li>
+  <li><span class="bold-text">Triangulation of surfaces</span> <span class="font-weight-light">(Delaunay triangulations and Strebel decompositions)</span></li>
+  <li><span class="bold-text">Curve counting problems</span> <span class="font-weight-light">(saddle connections and cylinders)</span></li>
   <li><span class="bold-text">Teichmüller theory.</span></li>
 </ul>
 
-<span class="font-weight-lighter">Here is my <a href='./cv/cv.pdf'>CV</a>.</span>
+<span class="font-weight-light">Here is my <a href='./cv/cv.pdf'>CV</a>.</span>
 
 

@@ -25,13 +25,13 @@ nav_order: 2
 <ul>
         <li> 
         <span class="bold-text">Uniform Length Estimates for Trajectories on Flat Cone Surfaces,</span><br>
-        <span class="font-weight-lighter">eprint, 2024,</span><br>
-        <span class="font-weight-lighter"><a href="https://arxiv.org/abs/2409.14188">arXiv:2409.14188</a>.</span>
+        <span class="font-weight-light">eprint, 2024,</span><br>
+        <span class="font-weight-light"><a href="https://arxiv.org/abs/2409.14188">arXiv:2409.14188</a>.</span>
         </li><br>
         <li> 
         <span class="bold-text">Bounds on saddle connections for flat spheres,</span><br>
         <span class="bold-text">with <a href="https://bimsa.net/people/tahar/">Guillaume Tahar</a>, eprint, 2023,</span><br>
-        <span class="font-weight-lighter"><a href="https://arxiv.org/abs/2308.08940">arXiv:2308.08940</a>.</span>
+        <span class="font-weight-light"><a href="https://arxiv.org/abs/2308.08940">arXiv:2308.08940</a>.</span>
         </li>
 </ul>
 
