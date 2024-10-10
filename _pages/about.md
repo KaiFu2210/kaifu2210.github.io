@@ -35,8 +35,8 @@ social: false # includes social icons at the bottom of the page
 <span class="font-weight-light">My <a href='#' style='color: var(--global-theme-color)'>research interests</a> include:</span>
 
 <ul>
-  <li><span class="bold-text">Flat surfaces</span> <span class="font-weight-light">(translation surfaces, meoromorphic differentials and flat cone spheres)</span></li>
-  <li><span class="bold-text">Triangulation of surfaces</span> <span class="font-weight-light">(Delaunay triangulations and Strebel decompositions)</span></li>
+  <li><span class="bold-text">Flat surfaces</span> <span class="font-weight-light">(holomorphic differentials, meoromorphic differentials and flat cone spheres)</span></li>
+  <li><span class="bold-text">Triangulation of surfaces</span> <span class="font-weight-light">(Delaunay triangulations and Strebel graphs)</span></li>
   <li><span class="bold-text">Curve counting problems</span> <span class="font-weight-light">(saddle connections and cylinders)</span></li>
   <li><span class="bold-text">Teichmüller theory.</span></li>
 </ul>
