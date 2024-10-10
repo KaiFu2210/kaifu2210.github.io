@@ -32,6 +32,8 @@ I am co-advised by [Vincent Delecroix](https://www.labri.fr/perso/vdelecro/) and
 
 Here is my <a href='./cv/cv.pdf'>CV</a>.
 
+My research interests include
+
 My <a style="color: var(--global-theme-color)">research interests</a> include:
 
 <ul>
