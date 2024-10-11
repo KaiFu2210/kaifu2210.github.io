@@ -14,7 +14,7 @@ nav_order: 2
 <style>
   .bold-text {
     font-weight: bold; /* 使文字粗体 */
-    font-weight: 400; /* 700 或更高的值可增强粗体效果 */
+    font-weight: 500; /* 700 或更高的值可增强粗体效果 */
   }
 </style> 
 
@@ -53,11 +53,17 @@ nav_order: 2
     <strong>Programming project</strong>
 </h3>
 
-I have a strong interest in <a href="https://www.sagemath.org/">SageMath</a>, an open-source mathematics software system built on Python.
+<span class="font-weight-light">I have a strong interest in</span> 
+<a href="https://www.sagemath.org/">SageMath</a>, 
+<span class="font-weight-light">an open-source mathematics software system built on Python.</span>
 
-Currently, we are collaboratively working on the joint paper <span class="bold-text">Computing the Multiscale Boundary I. Real Linear Subvarieties of Abelian and Quadratic Differentials,</span> and contributing new features to the package <a href="https://flatsurf.github.io/veerer/">veerer</a>. This work involves constructing veering triangulations with boundaries and Strebel graphs, and implementing conversions between veering triangulations and Strebel graphs. 
+<span class="font-weight-light">Currently, we are collaboratively working on the joint paper</span> 
+<span class="bold-text">Computing the Multiscale Boundary I. Real Linear Subvarieties of Abelian and Quadratic Differentials,</span> 
+<span class="font-weight-light">and contributing new features to the package</span> 
+<a href="https://flatsurf.github.io/veerer/">veerer</a>. 
+<span class="font-weight-light">This work involves constructing veering triangulations with boundaries and Strebel graphs, and implementing conversions between veering triangulations and Strebel graphs.</span> 
 
-We aim to compute the real linear subvariety, along with its boundary, within the multiscale compactification for a given tangent space of the subvariety.
+<span class="font-weight-light">We aim to compute the real linear subvariety, along with its boundary, within the multiscale compactification for a given tangent space of the subvariety.</span>
 
 
 <br>
