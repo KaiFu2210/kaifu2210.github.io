@@ -16,11 +16,10 @@ nav_order: 2
     font-weight: bold; /* 使文字粗体 */
     font-weight: 400; /* 700 或更高的值可增强粗体效果 */
   }
-</style>
+</style> 
 
-<br>
 <h3>
-    <a style="color: var(--global-theme-color)">Publications and preprints</a>
+    <strong>Publications and preprints</strong>
 </h3>
 <ul>
         <li> 
@@ -35,8 +34,9 @@ nav_order: 2
         </li>
 </ul>
 
+<br>
 <h3>
-    <a style="color: var(--global-theme-color)">In progress</a>
+    <strong>In progress</strong>
 </h3>
 <ul>
         <li> 
@@ -50,6 +50,18 @@ nav_order: 2
 
 <br>
 <h3>
-    <a style="color: var(--global-theme-color)">Talks</a>
+    <strong>Programming project</strong>
+</h3>
+
+I have a strong interest in <a href="https://www.sagemath.org/">SageMath</a>, an open-source mathematics software system built on Python.
+
+Currently, we are collaboratively working on the joint paper <span class="bold-text">Computing the Multiscale Boundary I. Real Linear Subvarieties of Abelian and Quadratic Differentials,</span> and contributing new features to the package <a href="https://flatsurf.github.io/veerer/">veerer</a>. This work involves constructing veering triangulations with boundaries and Strebel graphs, and implementing conversions between veering triangulations and Strebel graphs. 
+
+We aim to compute the real linear subvariety, along with its boundary, within the multiscale compactification for a given tangent space of the subvariety.
+
+
+<br>
+<h3>
+    <strong>Talks</strong>
 </h3>
 {% include news.liquid limit=true %}
