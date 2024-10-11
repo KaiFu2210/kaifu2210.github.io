@@ -33,7 +33,19 @@ social: false # includes social icons at the bottom of the page
 
 <span class="font-weight-light">I am interested in various aspects of surfaces (real two-dimensional manifolds) and their associated moduli spaces, with a focus on the interactions between geometry, combinatorics, and topology.</span>
 
-<span class="font-weight-light">My research includes the study of flat surfaces, such as <span class="bold-text">holomorphic</span> and <span class="bold-text">meromorphic differentials</span>, as well as <span class="bold-text">flat cone spheres</span>. From a combinatorial perspective, I utilize tools like <span class="bold-text">Delaunay triangulations</span> and <span class="bold-text">Strebel graphs</span> to study flat structures and their deformations within moduli spaces. Additionally, I am interested in <span class="bold-text">curve counting problems</span> related to saddle connections and cylinders.</span>
+<span class="font-weight-light">My research includes the study of flat surfaces, such as</span> 
+<span class="bold-text">holomorphic</span> 
+<span class="font-weight-light">and</span> 
+<span class="bold-text">meromorphic differentials</span>, 
+<span class="font-weight-light">as well as</span> 
+<span class="bold-text">flat cone spheres</span>. 
+<span class="font-weight-light">From a combinatorial perspective, I utilize tools like</span> 
+<span class="bold-text">Delaunay triangulations</span> 
+<span class="font-weight-light">and</span> 
+<span class="bold-text">Strebel graphs</span> 
+<span class="font-weight-light">to study flat structures and their deformations within moduli spaces. Additionally, I am interested in </span>
+<span class="bold-text">curve counting problems</span> 
+<span class="font-weight-light">related to saddle connections and cylinders.</span>
 
 <span class="font-weight-light">Here is my <a href='./cv/cv.pdf'>CV</a>.</span>
 
