@@ -21,7 +21,7 @@ social: false # includes social icons at the bottom of the page
 <style>
   .bold-text {
     font-weight: bold; /* 使文字粗体 */
-    font-weight: 400; /* 700 或更高的值可增强粗体效果 */
+    font-weight: 500; /* 700 或更高的值可增强粗体效果 */
   }
 </style>
 
