@@ -29,7 +29,7 @@ nav_order: 2
         </li><br>
         <li> 
         <span class="bold-text">Bounds on saddle connections for flat spheres,</span><br>
-        <span class="bold-text">with <a href="https://bimsa.net/people/tahar/">Guillaume Tahar</a>, eprint, 2023,</span><br>
+        <span class="bold-text">with <a href="https://bimsa.net/people/tahar/">Guillaume Tahar</a></span>, <span class="font-weight-light">eprint, 2023,</span><br>
         <span class="font-weight-light"><a href="https://arxiv.org/abs/2308.08940">arXiv:2308.08940</a>.</span>
         </li>
 </ul>
