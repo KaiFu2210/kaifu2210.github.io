@@ -5,25 +5,30 @@
       window.MathJax = {
         tex: {
           tags: 'ams',
+          inlineMath: [['$', '$'], ['\\(', '\\)']]
         },
+        options: {
+          skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+        }
       };
     </script>
     <script
       defer
       type="text/javascript"
       id="MathJax-script"
-      src="{{ site.third_party_libraries.mathjax.url.js }}"
-      integrity="{{ site.third_party_libraries.mathjax.integrity.js }}"
+      src="https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-mml-chtml.js"
+      integrity="sha256-MASABpB4tYktI2Oitl4t+78w/lyA+D7b/s9GEP0JOGI="
       crossorigin="anonymous"
     ></script>
     <!-- 暂时注释掉 Polyfill 脚本 -->
     <!-- 
     <script
       defer
-      src="{{ site.third_party_libraries.polyfill.url.js }}"
+      src="https://polyfill.io/v3/polyfill.min.js?features=es6"
       crossorigin="anonymous"
     ></script>
     -->
   {% endunless %}
 {% endif %}
+
 
