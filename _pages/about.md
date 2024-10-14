@@ -39,7 +39,7 @@ social: false # includes social icons at the bottom of the page
 <span class="bold-text">meromorphic differentials</span>, 
 <span class="font-weight-light">as well as</span> 
 <span class="bold-text">flat cone spheres</span>. 
-<span class="font-weight-light">From a combinatorial perspective, I utilize tools like</span> 
+<span class="font-weight-light">I utilize combinatorial tools like</span> 
 <span class="bold-text">Delaunay triangulations</span> 
 <span class="font-weight-light">and</span> 
 <span class="bold-text">Strebel graphs</span> 
