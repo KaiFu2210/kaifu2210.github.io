@@ -57,13 +57,12 @@ nav_order: 2
 <a href="https://www.sagemath.org/">SageMath</a>, 
 <span class="font-weight-light">an open-source mathematics software system built on Python.</span>
 
-<span class="font-weight-light">Currently, we are collaboratively working on the joint paper</span> 
+<span class="font-weight-light">Currently, I am working with <a href="https://www.labri.fr/perso/vdelecro/">Vincent Delecroix</a> and <a href="">Bradley Zykoski</a> on</span> 
 <span class="bold-text">Computing the Multiscale Boundary I. Real Linear Subvarieties of Abelian and Quadratic Differentials,</span> 
 <span class="font-weight-light">and contributing new features to the package</span> 
-<a href="https://flatsurf.github.io/veerer/">veerer</a>. 
-<span class="font-weight-light">This work involves constructing veering triangulations with boundaries and Strebel graphs, and implementing conversions between veering triangulations and Strebel graphs.</span> 
+<a href="https://flatsurf.github.io/veerer/">veerer</a>.
 
-<span class="font-weight-light">We aim to compute the real linear subvariety, along with its boundary, within the multiscale compactification for a given tangent space of the subvariety.</span>
+<span class="font-weight-light">We aim to compute compute all boundary strata of a real linear subvariety in the multi-scale compactification of the moduli space, given a tangent space of the subvariety. We construct blow-ups along the facets of the Delaunay cells and establish their connection to the boundary strata of the multi-scale compactification.</span>
 
 
 <br>
