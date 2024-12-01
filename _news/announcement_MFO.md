@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 <b>Riemann Surfaces: Random, Flat, and Hyperbolic Geometry</b>,
-<i>MFO</i>, Oberwolfach, Germany
+<i>MFO</i>, lightning talk, Oberwolfach, Germany

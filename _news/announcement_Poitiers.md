@@ -6,5 +6,5 @@ related_posts: false
 ---
 
 <b>Cours de Géométrie Algébrique et Géométrie Complexe de la fédération MARGAUx</b>,
-<i>Le Laboratoire de Mathématiques et Applications, Université de Poitiers</i>,
+<i>Le Laboratoire de Mathématiques et Applications, Université de Poitiers</i>, short talk,
 Poitiers, France
