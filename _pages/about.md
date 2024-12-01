@@ -34,9 +34,9 @@ social: false # includes social icons at the bottom of the page
 <span class="font-weight-light">I am interested in various aspects of surfaces (real two-dimensional manifolds) and their associated moduli spaces, with a focus on the interactions between geometry, combinatorics, and topology.</span>
 
 <span class="font-weight-light">My research focuses on the study of </span> 
-<span class="bold-text">holomorphic</span> <span class="font-weight-light">and</span> 
-<span class="bold-text">meromorphic differentials</span>, 
-<span class="font-weight-light">as well as</span> <span class="bold-text">flat cone spheres</span>. 
+<span class="bold-text"></span> <span class="font-weight-light">holomorphic and meromorphic</span> 
+<span class="bold-text"> Abelian differentials</span>, 
+<span class="font-weight-light">and</span> <span class="bold-text">flat cone surfaces</span>. 
 <span class="font-weight-light">I employ combinatorial tools, such as</span> <span class="bold-text">Delaunay triangulations</span> <span class="font-weight-light">and</span> <span class="bold-text">Strebel graphs</span>, <span class="font-weight-light">to represent these structures and analyze their degenerations within compactifications of moduli spaces. Furthermore, I am intrigued by</span> <span class="bold-text">curve counting problems</span> <span class="font-weight-light">on saddle connections and cylinders.</span>
 
 <span class="font-weight-light">Here is my <a href='./cv/cv.pdf'>CV</a>.</span>
