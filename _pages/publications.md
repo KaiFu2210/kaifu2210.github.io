@@ -23,13 +23,18 @@ nav_order: 2
 </h3>
 <ul>
         <li> 
+        <span class="bold-text">Siegel-Veech Measures of Convex Flat Cone Spheres,</span><br>
+        <span class="font-weight-light">eprint, 2025,</span><br>
+        <span class="font-weight-light"><a href="https://arxiv.org/abs/2504.14731">arXiv:2504.14731</a>.</span>
+        </li><br>
+        <li> 
         <span class="bold-text">Uniform Length Estimates for Trajectories on Flat Cone Surfaces,</span><br>
-        <span class="font-weight-light">eprint, 2024,</span><br>
+        <span class="font-weight-light">eprint, 2024, submitted,</span><br>
         <span class="font-weight-light"><a href="https://arxiv.org/abs/2409.14188">arXiv:2409.14188</a>.</span>
         </li><br>
         <li> 
         <span class="bold-text">Bounds on saddle connections for flat spheres,</span><br>
-        <span class="bold-text">with <a href="https://bimsa.net/people/tahar/">Guillaume Tahar</a></span>, <span class="font-weight-light">eprint, 2023,</span><br>
+        <span class="bold-text">with <a href="https://bimsa.net/people/tahar/">Guillaume Tahar</a></span>, <span class="font-weight-light">eprint, 2023, submitted,</span><br>
         <span class="font-weight-light"><a href="https://arxiv.org/abs/2308.08940">arXiv:2308.08940</a>.</span>
         </li>
 </ul>
@@ -43,9 +48,6 @@ nav_order: 2
         <span class="bold-text">Computing the Multiscale Boundary I. Real Linear Subvarieties of Abelian and Quadratic Differentials,</span><br>
         <span class="bold-text">with <a href="https://www.labri.fr/perso/vdelecro/">Vincent Delecroix</a> and <a href="">Bradley Zykoski</a>.</span>
         </li><br>
-        <li>
-        <span class="bold-text">Siegel-Veech Measures of Convex Flat Cone Spheres.</span><br>
-        </li>
 </ul>
 
 <br>
