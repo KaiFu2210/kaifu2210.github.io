@@ -46,7 +46,7 @@ nav_order: 2
 <ul>
         <li> 
         <span class="bold-text">Computing the Multiscale Boundary I. Real Linear Subvarieties of Abelian and Quadratic Differentials,</span><br>
-        <span class="bold-text">with <a href="https://www.labri.fr/perso/vdelecro/">Vincent Delecroix</a> and <a href="https://www.math.northwestern.edu/people/faculty/#Z">">Bradley Zykoski</a>.</span>
+        <span class="bold-text">with <a href="https://www.labri.fr/perso/vdelecro/">Vincent Delecroix</a> and <a href="https://www.math.northwestern.edu/people/faculty/#Z">Bradley Zykoski</a>.</span>
         </li><br>
 </ul>
 
