@@ -59,7 +59,7 @@ nav_order: 2
 <a href="https://www.sagemath.org/">SageMath</a>, 
 <span class="font-weight-light">an open-source mathematics software system built on Python.</span>
 
-<span class="font-weight-light">Currently, I am working with <a href="https://www.labri.fr/perso/vdelecro/">Vincent Delecroix</a> and <a href="">Bradley Zykoski</a> on</span> 
+<span class="font-weight-light">Currently, I am working with <a href="https://www.labri.fr/perso/vdelecro/">Vincent Delecroix</a> and <a href="https://www.math.northwestern.edu/people/faculty/#Z">Bradley Zykoski</a> on</span> 
 <span class="bold-text">Computing the Multiscale Boundary I. Real Linear Subvarieties of Abelian and Quadratic Differentials,</span> 
 <span class="font-weight-light">and contributing new features to the package</span> 
 <a href="https://flatsurf.github.io/veerer/">veerer</a>.

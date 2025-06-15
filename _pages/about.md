@@ -41,7 +41,7 @@ social: false # includes social icons at the bottom of the page
 <span class="bold-text">Delaunay triangulations</span><span class="font-weight-light">, to study counting problems on</span> 
 <span class="bold-text">saddle connections</span> 
 <span class="font-weight-light">and</span> 
-<span class="bold-text">cylinders</span><span class="font-weight-light">, as well as questions related to the compactifications of moduli spaces.</span>
+<span class="bold-text">cylinders</span><span class="font-weight-light">, as well as questions related to the <span class="bold-text">compactifications</span> of moduli spaces.</span>
 
 <span class="font-weight-light">Here is my <a href='./cv/cv.pdf'>CV</a>.</span>
 
