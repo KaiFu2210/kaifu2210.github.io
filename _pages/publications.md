@@ -66,6 +66,15 @@ nav_order: 2
 
 <span class="font-weight-light">We aim to compute compute all boundary strata of a real linear subvariety in the multi-scale compactification of the moduli space, given a tangent space of the subvariety. We construct blow-ups along the facets of the Delaunay cells and establish their connection to the boundary strata of the multi-scale compactification.</span>
 
+<br>
+<h3>
+    <strong>PhD thesis</strong>
+</h3>
+<ul>
+<li>
+  <span class="bold-text"><a href="https://theses.hal.science/tel-05225933v1">Geodesics on convex flat cone spheres</a>.</span>
+</li>
+</ul>
 
 <br>
 <h3>
