@@ -24,12 +24,12 @@ nav_order: 2
 <ul>
         <li> 
         <span class="bold-text">Siegel-Veech Measures of Convex Flat Cone Spheres,</span><br>
-        <span class="font-weight-light">to appear in Compositio Mathematica,</span><br>
+        <span class="font-weight-light">to appear in <i>Compositio Mathematica</i>,</span><br>
         <span class="font-weight-light"><a href="https://arxiv.org/abs/2504.14731">arXiv:2504.14731</a>.</span>
         </li><br>
         <li> 
         <span class="bold-text">Uniform Length Estimates for Trajectories on Flat Cone Surfaces,</span><br>
-        <span class="font-weight-light">to appear in Annales de l'Institut Fourier,</span><br>
+        <span class="font-weight-light">to appear in <i>Annales de l'Institut Fourier</i>,</span><br>
         <span class="font-weight-light"><a href="https://arxiv.org/abs/2409.14188">arXiv:2409.14188</a>.</span>
         </li><br>
         <li> 
