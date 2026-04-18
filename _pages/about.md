@@ -33,15 +33,14 @@ social: false # includes social icons at the bottom of the page
 
 <span class="font-weight-light">I am interested in various aspects of surfaces (real two-dimensional manifolds) and their associated moduli spaces.</span>
 
-<span class="font-weight-light">My research focuses on the study of </span> 
-<span class="bold-text"></span> <span class="font-weight-light">holomorphic and meromorphic</span> 
-<span class="bold-text"> Abelian differentials</span>, 
-<span class="font-weight-light">and</span> <span class="bold-text">flat cone surfaces</span>.
-<span class="font-weight-light">I employ combinatorial tools, such as</span> 
-<span class="bold-text">Delaunay triangulations</span><span class="font-weight-light">, to study counting problems for</span> 
-<span class="bold-text">saddle connections</span> 
+<span class="font-weight-light">My research interests are in</span> 
+<span class="bold-text">geometry and dynamics</span> 
+<span class="font-weight-light">on</span> 
+<span class="bold-text">translation surfaces</span> 
 <span class="font-weight-light">and</span> 
-<span class="bold-text">cylinders</span><span class="font-weight-light">, and <span class="bold-text">compactifications</span> of the moduli spaces.</span>
+<span class="bold-text">flat cone surfaces</span><span class="font-weight-light">. I am also interested in the</span> 
+<span class="bold-text">o-minimal geometry</span> 
+<span class="font-weight-light">of their moduli spaces.</span>
 
 <span class="font-weight-light">Here is my <a href='./cv/cv.pdf'>CV</a>.</span>
 
