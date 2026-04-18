@@ -33,9 +33,7 @@ social: false # includes social icons at the bottom of the page
 
 <span class="font-weight-light">I am interested in various aspects of surfaces (real two-dimensional manifolds) and their associated moduli spaces.</span>
 
-<span class="font-weight-light">My research interests are in</span> 
-<span class="bold-text">geometry and dynamics</span> 
-<span class="font-weight-light">on</span> 
+<span class="font-weight-light">My research interests are in geometry and dynamics on</span>
 <span class="bold-text">translation surfaces</span> 
 <span class="font-weight-light">and</span> 
 <span class="bold-text">flat cone surfaces</span><span class="font-weight-light">. I am also interested in the</span> 
