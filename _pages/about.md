@@ -31,9 +31,9 @@ social: false # includes social icons at the bottom of the page
 
 <span class="font-weight-light">I completed my PhD at [Institut de Mathématiques de Bordeaux](https://www.math.u-bordeaux.fr/imb/), in the [Geometry group](https://www.math.u-bordeaux.fr/imb/geometrie), co-advised by [Vincent Delecroix](https://www.labri.fr/perso/vdelecro/) and [Elise Goujard](https://www.math.u-bordeaux.fr/~egoujard/).</span>
 
-<span class="font-weight-light">I am interested in various aspects of surfaces (real two-dimensional manifolds) and their associated moduli spaces.</span>
+<span class="font-weight-light">I am interested in various aspects of surfaces, real two-dimensional manifolds, and their associated moduli spaces.</span>
 
-<span class="font-weight-light">My research interests are in geometry and dynamics on</span>
+<span class="font-weight-light">More specifically, my research focuses on the geometry and dynamics of</span>
 <span class="bold-text">translation surfaces</span> 
 <span class="font-weight-light">and</span> 
 <span class="bold-text">flat cone surfaces</span><span class="font-weight-light">. I am also interested in the</span> 
