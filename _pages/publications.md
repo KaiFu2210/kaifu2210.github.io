@@ -24,18 +24,18 @@ nav_order: 2
 <ul>
         <li> 
         <span class="bold-text">Siegel-Veech Measures of Convex Flat Cone Spheres</span><br>
-        <span class="font-weight-light">to appear in <i>Compositio Mathematica</i></span><br>
+        <span class="font-weight-light">to appear in <i>Compositio Mathematica</i>, 2026</span><br>
         <span class="font-weight-light"><a href="https://arxiv.org/abs/2504.14731">arXiv</a></span>
         </li><br>
         <li> 
         <span class="bold-text">Uniform Length Estimates for Trajectories on Flat Cone Surfaces,</span><br>
-        <span class="font-weight-light">to appear in <i>Annales de l'Institut Fourier</i></span><br>
+        <span class="font-weight-light">to appear in <i>Annales de l'Institut Fourier</i>, 2026</span><br>
         <span class="font-weight-light"><a href="https://arxiv.org/abs/2409.14188">arXiv</a></span>
         </li><br>
         <li>
         <span class="font-weight-light">with <a href="https://bimsa.net/people/tahar/">Guillaume Tahar</a></span><br> 
         <span class="bold-text">Bounds on saddle connections for flat spheres</span><br>
-        <span class="font-weight-light">submitted</span><br>
+        <span class="font-weight-light">submitted</span>, 2023<br>
         <span class="font-weight-light"><a href="https://arxiv.org/abs/2308.08940">arXiv</a></span>
         </li>
 </ul>
