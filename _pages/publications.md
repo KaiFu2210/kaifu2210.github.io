@@ -23,19 +23,20 @@ nav_order: 2
 </h3>
 <ul>
         <li> 
-        <span class="bold-text">Siegel-Veech Measures of Convex Flat Cone Spheres,</span><br>
-        <span class="font-weight-light">to appear in <i>Compositio Mathematica</i>,</span><br>
-        <span class="font-weight-light"><a href="https://arxiv.org/abs/2504.14731">arXiv:2504.14731</a>.</span>
+        <span class="bold-text">Siegel-Veech Measures of Convex Flat Cone Spheres</span><br>
+        <span class="font-weight-light">to appear in <i>Compositio Mathematica</i></span><br>
+        <span class="font-weight-light"><a href="https://arxiv.org/abs/2504.14731">arXiv</a></span>
         </li><br>
         <li> 
         <span class="bold-text">Uniform Length Estimates for Trajectories on Flat Cone Surfaces,</span><br>
-        <span class="font-weight-light">to appear in <i>Annales de l'Institut Fourier</i>,</span><br>
-        <span class="font-weight-light"><a href="https://arxiv.org/abs/2409.14188">arXiv:2409.14188</a>.</span>
+        <span class="font-weight-light">to appear in <i>Annales de l'Institut Fourier</i></span><br>
+        <span class="font-weight-light"><a href="https://arxiv.org/abs/2409.14188">arXiv</a></span>
         </li><br>
-        <li> 
-        <span class="bold-text">Bounds on saddle connections for flat spheres,</span><br>
-        <span class="bold-text">with <a href="https://bimsa.net/people/tahar/">Guillaume Tahar</a></span>, <span class="font-weight-light">eprint, 2023, submitted,</span><br>
-        <span class="font-weight-light"><a href="https://arxiv.org/abs/2308.08940">arXiv:2308.08940</a>.</span>
+        <li>
+        <span class="font-weight-light">with <a href="https://bimsa.net/people/tahar/">Guillaume Tahar</a></span><br> 
+        <span class="bold-text">Bounds on saddle connections for flat spheres</span><br>
+        <span class="font-weight-light">submitted</span><br>
+        <span class="font-weight-light"><a href="https://arxiv.org/abs/2308.08940">arXiv</a></span>
         </li>
 </ul>
 
@@ -45,8 +46,8 @@ nav_order: 2
 </h3>
 <ul>
         <li> 
-        <span class="bold-text">$L^\infty$-Delaunay Cells and Linear Subvarieties of Abelian Differentials,</span><br>
-        <span class="font-weight-light">with <a href="https://www.labri.fr/perso/vdelecro/">Vincent Delecroix</a> and <a href="https://www.math.northwestern.edu/people/faculty/#Z">Bradley Zykoski</a>.</span>
+        <span class="font-weight-light">with <a href="https://www.labri.fr/perso/vdelecro/">Vincent Delecroix</a> and <a href="https://www.math.northwestern.edu/people/faculty/#Z">Bradley Zykoski</a></span><br>
+        <span class="bold-text">$L^\infty$-Delaunay Cells and Linear Subvarieties of Abelian Differentials</span>
         </li><br>
 </ul>
 
