@@ -28,7 +28,7 @@ nav_order: 2
         <span class="font-weight-light"><a href="https://arxiv.org/abs/2504.14731">arXiv</a></span>
         </li><br>
         <li> 
-        <span class="bold-text">Uniform Length Estimates for Trajectories on Flat Cone Surfaces,</span><br>
+        <span class="bold-text">Uniform Length Estimates for Trajectories on Flat Cone Surfaces</span><br>
         <span class="font-weight-light">to appear in <i>Annales de l'Institut Fourier</i>, 2026</span><br>
         <span class="font-weight-light"><a href="https://arxiv.org/abs/2409.14188">arXiv</a></span>
         </li><br>
