@@ -56,13 +56,9 @@ nav_order: 2
     <strong>Programming project</strong>
 </h3>
 
-<span class="font-weight-light">I am interested in</span> 
-<a href="https://www.sagemath.org/">SageMath</a>, 
-<span class="font-weight-light">an open-source mathematics software system built on Python.</span>
-
 <span class="font-weight-light">Currently, I am working with <a href="https://www.labri.fr/perso/vdelecro/">Vincent Delecroix</a> on the computation of real linear subvarieties in the moduli spaces of Abelian differentials.</span>
 
-<span class="font-weight-light">More precisely, we develop algorithms to determine whether a given linear subspace in a period chart is tangent to a linear subvariety. We also compute the boundary of a linear subvariety in the multiscale compactification. This project is being implemented in the package</span> <a href="https://flatsurf.github.io/veerer/">veerer</a><span class="font-weight-light">.
+<span class="font-weight-light">More precisely, we develop algorithms to verify that a given germ defines a real linear subvariety. We also compute the boundary of a real linear subvariety in the multi-scale compactification. This project is being implemented in the package</span> <a href="https://flatsurf.github.io/veerer/">veerer</a><span class="font-weight-light">.
 
 <br>
 <h3>

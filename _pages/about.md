@@ -31,14 +31,14 @@ social: false # includes social icons at the bottom of the page
 
 <span class="font-weight-light">I completed my PhD at [Institut de Mathématiques de Bordeaux](https://www.math.u-bordeaux.fr/imb/), in the [Geometry group](https://www.math.u-bordeaux.fr/imb/geometrie), co-advised by [Vincent Delecroix](https://www.labri.fr/perso/vdelecro/) and [Elise Goujard](https://www.math.u-bordeaux.fr/~egoujard/).</span>
 
-<span class="font-weight-light">I am interested in various aspects of surfaces, real two-dimensional manifolds, and their associated moduli spaces.</span>
+<span class="font-weight-light">I am interested in various aspects of surfaces and their moduli spaces.</span>
 
-<span class="font-weight-light">More specifically, my research focuses on the geometry and dynamics of</span>
-<span class="bold-text">translation surfaces</span> 
-<span class="font-weight-light">and</span> 
-<span class="bold-text">flat cone surfaces</span><span class="font-weight-light">. I am also interested in the</span> 
-<span class="bold-text">o-minimal geometry</span> 
-<span class="font-weight-light">of their moduli spaces.</span>
+<span class="font-weight-light">My research focuses on the geometry and dynamics of</span>
+<span class="bold-text">translation surfaces</span>
+<span class="font-weight-light">and</span>
+<span class="bold-text">flat cone surfaces</span><span class="font-weight-light">. This includes counting problems for cylinders and saddle connections on these surfaces, as well as the geometry of their moduli spaces.</span>
+
+<span class="font-weight-light">I also use computational methods to study these questions, often with</span><a href="https://www.sagemath.org/">SageMath</a><span class="font-weight-light">.</span>
 
 <span class="font-weight-light">Here is my <a href='./cv/cv.pdf'>CV</a>.</span>
 
