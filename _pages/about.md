@@ -29,7 +29,7 @@ social: false # includes social icons at the bottom of the page
 
 <span class="font-weight-light">I am a postdoctoral researcher at the [Max Planck Institute for Mathematics in the Sciences](https://www.mis.mpg.de/de/) in Leipzig, working in the [Geometry, Groups, and Dynamics group](https://www.mis.mpg.de/de/geometry-groups-dynamics) led by [Anna Wienhard](https://www.mis.mpg.de/people/anna-wienhard), since 2025.</span>
 
-<span class="font-weight-light">I completed my PhD at [Institut de Mathématiques de Bordeaux](https://www.math.u-bordeaux.fr/imb/), in the [Geometry group](https://www.math.u-bordeaux.fr/imb/geometrie), co-advised by [Vincent Delecroix](https://www.labri.fr/perso/vdelecro/) and [Elise Goujard](https://www.math.sciences.univ-nantes.fr/Elise-Goujard#accueil).</span>
+<span class="font-weight-light">I completed my PhD at [Institut de Mathématiques de Bordeaux](https://www.math.u-bordeaux.fr/imb/), in the [Geometry group](https://www.math.u-bordeaux.fr/fr/equipe/geometrie), co-advised by [Vincent Delecroix](https://www.labri.fr/perso/vdelecro/) and [Elise Goujard](https://www.math.sciences.univ-nantes.fr/Elise-Goujard#accueil).</span>
 
 <span class="font-weight-light">I am interested in various aspects of surfaces and their moduli spaces.</span>
 
