@@ -36,7 +36,7 @@ social: false # includes social icons at the bottom of the page
 <span class="font-weight-light">My research focuses on the geometry and dynamics of</span>
 <span class="bold-text">translation surfaces</span>
 <span class="font-weight-light">and</span>
-<span class="bold-text">flat cone surfaces</span><span class="font-weight-light">. This includes counting problems for cylinders and saddle connections on these surfaces, as well as the geometry of their moduli spaces.</span>
+<span class="bold-text">flat cone surfaces</span><span class="font-weight-light">. This includes counting problems for cylinders and saddle connections, and their connections with the geometry of moduli spaces.</span>
 
 <span class="font-weight-light">I also use computational methods to study these questions, often with</span>
 <a href="https://www.sagemath.org/">SageMath</a><span class="font-weight-light">.</span>
