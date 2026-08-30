@@ -24,8 +24,12 @@ nav_order: 2
 <ul>
         <li> 
         <span class="bold-text">Siegel-Veech Measures of Convex Flat Cone Spheres</span><br>
-        <span class="font-weight-light">to appear in <i>Compositio Mathematica</i>, 2026</span><br>
-        <span class="font-weight-light"><a href="https://arxiv.org/abs/2504.14731">arXiv</a></span>
+        <span class="font-weight-light"><i>Compositio Mathematica</i>, 162(7), 2026, 1507 - 1573</span><br>
+        <span class="font-weight-light">
+          <a href="https://arxiv.org/abs/2504.14731">arXiv</a>
+          |
+          <a href="https://doi.org/10.1017/S0010437X2610339X">DOI</a>
+        </span>
         </li><br>
         <li> 
         <span class="bold-text">Uniform Length Estimates for Trajectories on Flat Cone Surfaces</span><br>
@@ -39,7 +43,7 @@ nav_order: 2
         <span class="font-weight-light">
           <a href="https://arxiv.org/abs/2308.08940">arXiv</a>
           |
-          <a href="https://doi.org/10.1112/topo.70076">doi</a>
+          <a href="https://doi.org/10.1112/topo.70076">DOI</a>
         </span>
         </li>
 </ul>
