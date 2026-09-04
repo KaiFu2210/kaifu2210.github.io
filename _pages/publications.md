@@ -80,6 +80,28 @@ nav_order: 2
 
 <br>
 <h3>
+    <strong>Teaching</strong>
+</h3>
+<ul>
+    <li>
+        <span class="bold-text">
+            <a href="https://www.mis.mpg.de/de/events/event/introduction-to-translation-surfaces-and-interval-exchange-transformations">
+                Introduction to Translation Surfaces and Interval Exchange Transformations
+            </a>
+        </span><br>
+        <span class="font-weight-light">
+            Co-taught with <a href="https://perso.eleves.ens-rennes.fr/people/magali.jay/en_index.html">Magali Jay</a>, Summer Semester 2026
+        </span><br>
+        <span class="font-weight-light">
+            Master's course at Leipzig University
+            |
+            <a href="https://perso.eleves.ens-rennes.fr/people/magali.jay/teaching.html">Notes from the course</a>
+        </span>
+    </li>
+</ul>
+
+<br>
+<h3>
     <strong>Talks</strong>
 </h3>
 {% include news.liquid limit=true %}
