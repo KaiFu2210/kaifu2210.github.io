@@ -23,6 +23,12 @@ nav_order: 2
 </h3>
 <ul>
         <li> 
+        <span class="font-weight-light">with <a href="https://sites.google.com/view/anthonysanchezmath/home">Anthony Sanchez</a></span><br>
+        <span class="bold-text">Point Processes and Gap Statistics for Translation Surfaces</span><br>
+        <span class="font-weight-light">2026</span><br>
+        <span class="font-weight-light">arXiv</a></span>
+        </li>
+        <li> 
         <span class="bold-text">Siegel-Veech Measures of Convex Flat Cone Spheres</span><br>
         <span class="font-weight-light"><i>Compositio Mathematica</i>, 162(7), 2026, 1507 - 1573</span><br>
         <span class="font-weight-light">
@@ -30,14 +36,14 @@ nav_order: 2
           |
           <a href="https://doi.org/10.1017/S0010437X2610339X">DOI</a>
         </span>
-        </li><br>
+        </li>
         <li> 
         <span class="bold-text">Uniform Length Estimates for Trajectories on Flat Cone Surfaces</span><br>
         <span class="font-weight-light">to appear in <i>Annales de l'Institut Fourier</i>, 2026</span><br>
         <span class="font-weight-light"><a href="https://arxiv.org/abs/2409.14188">arXiv</a></span>
-        </li><br>
+        </li>
         <li>
-        <span class="font-weight-light">with <a href="https://bimsa.net/people/tahar/">Guillaume Tahar</a></span><br> 
+        <span class="font-weight-light">with <a href="https://sites.gtiit.edu.cn/research/people/guillaume-tahar/">Guillaume Tahar</a></span><br> 
         <span class="bold-text">Bounds on saddle connections for flat spheres</span><br>
         <span class="font-weight-light"><i>Journal of Topology</i>, 19(2), 2026</span><br>
         <span class="font-weight-light">
@@ -54,7 +60,7 @@ nav_order: 2
 </h3>
 <ul>
         <li> 
-        <span class="font-weight-light">with <a href="https://www.labri.fr/perso/vdelecro/">Vincent Delecroix</a> and <a href="https://www.math.northwestern.edu/people/faculty/#Z">Bradley Zykoski</a></span><br>
+        <span class="font-weight-light">with <a href="https://www.labri.fr/perso/vdelecro/">Vincent Delecroix</a> and Bradley Zykoski</span><br>
         <span class="bold-text">$L^\infty$-Delaunay Cells and Linear Subvarieties of Abelian Differentials</span>
         </li><br>
 </ul>
