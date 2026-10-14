@@ -26,7 +26,7 @@ nav_order: 2
         <span class="font-weight-light">with <a href="https://sites.google.com/view/anthonysanchezmath/home">Anthony Sanchez</a></span><br>
         <span class="bold-text">Point Processes and Gap Statistics for Translation Surfaces</span><br>
         <span class="font-weight-light">2026</span><br>
-        <span class="font-weight-light">arXiv</span>
+        <span class="font-weight-light"><a href="https://arxiv.org/abs/2610.17277">arXiv</a></span>
         </li>
         <li> 
         <span class="bold-text">Siegel-Veech Measures of Convex Flat Cone Spheres</span><br>
