@@ -19,13 +19,12 @@ nav_order: 2
 </style> 
 
 <h3>
-    <strong>Publications and preprints</strong>
+    <strong>Publications and Preprints</strong>
 </h3>
 <ul>
         <li> 
         <span class="font-weight-light">with <a href="https://sites.google.com/view/anthonysanchezmath/home">Anthony Sanchez</a></span><br>
         <span class="bold-text">Point Processes and Gap Statistics for Translation Surfaces</span><br>
-        <span class="font-weight-light">2026</span><br>
         <span class="font-weight-light"><a href="https://arxiv.org/abs/2610.17277">arXiv</a></span>
         </li>
         <li> 
@@ -56,7 +55,7 @@ nav_order: 2
 
 <br>
 <h3>
-    <strong>In progress</strong>
+    <strong>In Progress</strong>
 </h3>
 <ul>
         <li> 
@@ -67,7 +66,7 @@ nav_order: 2
 
 <br>
 <h3>
-    <strong>Programming project</strong>
+    <strong>Programming Project</strong>
 </h3>
 
 <span class="font-weight-light">Currently, I am working with <a href="https://www.labri.fr/perso/vdelecro/">Vincent Delecroix</a> on the computation of real linear subvarieties in the moduli spaces of Abelian differentials.</span>
@@ -76,7 +75,7 @@ nav_order: 2
 
 <br>
 <h3>
-    <strong>PhD thesis</strong>
+    <strong>PhD Thesis</strong>
 </h3>
 <ul>
 <li>
