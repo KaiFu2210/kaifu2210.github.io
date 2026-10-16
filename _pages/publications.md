@@ -43,7 +43,7 @@ nav_order: 2
         </li>
         <li>
         <span class="font-weight-light">with <a href="https://sites.gtiit.edu.cn/research/people/guillaume-tahar/">Guillaume Tahar</a></span><br> 
-        <span class="bold-text">Bounds on saddle connections for flat spheres</span><br>
+        <span class="bold-text">Bounds on Saddle Connections for Flat Spheres</span><br>
         <span class="font-weight-light"><i>Journal of Topology</i>, 19(2), 2026</span><br>
         <span class="font-weight-light">
           <a href="https://arxiv.org/abs/2308.08940">arXiv</a>
